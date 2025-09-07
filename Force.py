@@ -3,4 +3,4 @@
 mass = int(10)
 Acceleration = float(9.81)
 Force = mass * Acceleration
-print("The force is: ", Force)
+print("The force is: ", Force, "kg m/s^2 ")
