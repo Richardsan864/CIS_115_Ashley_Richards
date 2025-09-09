@@ -6,3 +6,9 @@ Add = (Num1) + (Num2)
 divide = (Add) / float(Num3)
 print("The answer is: ", divide)
 
+#Print if else statement to see if number is (>) or (<) 0.
+
+if divide > 0:
+    print("The mathmatical operation is greater than 0.")
+else:
+    print("The mathmatical operation is <= 0.")
