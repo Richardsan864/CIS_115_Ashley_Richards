@@ -9,6 +9,6 @@ print("The answer is: ", divide)
 #Print if else statement to see if number is (>) or (<) 0.
 
 if divide > 0:
-    print("The mathmatical operation is greater than 0.")
+    print("The mathematical operation is > than 0.")
 else:
-    print("The mathmatical operation is <= 0.")
+    print(f"The mathematical operation is <= 0.")
